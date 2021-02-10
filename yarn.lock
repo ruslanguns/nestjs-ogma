@@ -2289,13 +2289,13 @@
   integrity sha512-FfQsZK5K1OvvGqjPHCJtrNTLlKLg7bLuphtCRTFb5K2P98JTfslauMbT7bS8huOoK/86HMNmNoHR/EVLAd4FzA==
 
 "@nestjs/microservices@^7.3.2":
-  version "7.6.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-7.6.1.tgz#8f9542fff3dc76285f2b9df1727d2259e83e5de0"
-  integrity sha512-kKwFKbskQcAANMuhqgaYwWLtijNFcWBRN7vn2K4vJPqTjEXTDF7NRzjC4Wvfj+Dos9i33gdrFrZvrYTllTBZLA==
+  version "7.6.12"
+  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-7.6.12.tgz#065d6774a75e893604982e7f9d219faccfbd0107"
+  integrity sha512-kP8Qsrjid6g4PdT0D7i2YEEDeRwGKNroMcbwZrEZjLrXYVUxEhTdvlJ07S996EAKWz8Kclha/TYfSCw+Qwfl/g==
   dependencies:
     iterare "1.2.1"
     json-socket "0.3.0"
-    tslib "2.0.3"
+    tslib "2.1.0"
 
 "@nestjs/platform-express@^7.0.6", "@nestjs/platform-express@^7.3.2":
   version "7.6.1"
@@ -12859,6 +12859,11 @@ tslib@2.0.3, tslib@~2.0.0, tslib@~2.0.1:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
+
+tslib@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
+  integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
 tslib@^1.10.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
   version "1.14.1"
